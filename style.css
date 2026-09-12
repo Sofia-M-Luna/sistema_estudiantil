@@ -221,3 +221,8 @@ input:focus {
     background-color: var(--badge-danger-bg);
     color: var(--badge-danger-text);
 }
+
+.promedio-reprobado {
+    color: #b91c1c !important;
+    font-weight: 700;
+}
