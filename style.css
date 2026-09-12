@@ -226,3 +226,14 @@ input:focus {
     color: #b91c1c !important;
     font-weight: 700;
 }
+
+.reprobado-asistencia {
+    display: inline-block;
+    padding: 0.2rem 0.55rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    border-radius: 12px;
+    text-align: center;
+    background-color: #fef3c7;
+    color: #a16207;
+}
